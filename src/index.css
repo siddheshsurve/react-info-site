@@ -63,3 +63,8 @@ main {
 .main-ul > li {
     padding-block: 7px;
 }
+
+.main-ul > li::marker {
+    font-size: 1.8rem;
+    color: #61DAFB;
+}
